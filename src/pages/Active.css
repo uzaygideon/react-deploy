@@ -1,0 +1,9 @@
+.link-1{
+    /* color: rgba(227, 167, 20,0.7) */
+    background-image: linear-gradient(to right,rgb(184, 184, 26),purple);
+    background-clip: text;
+    color: transparent;
+}
+.link-2{
+    color: rgb(90,162,235);
+}

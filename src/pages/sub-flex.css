@@ -1,0 +1,30 @@
+@media only screen and (max-width:600px){
+.alt-one{
+    width:100%;
+    padding:2% 5% 0%;
+    color:rgb(124,124,125);
+}
+.alt-two{
+    /* background-color:blue; */
+    width:100%;
+    padding:2% 3% 6%;
+    color:rgb(124,124,125)
+}
+.bg-ht{
+    height: 45vh;
+}
+}
+@media only screen and (min-width:601px){
+    .alt-one{
+        width:45%;
+        padding:2% 2% 0%;
+        color:rgb(124,124,125)
+    }  
+    .alt-two{
+        width:53%;
+        padding:1% 0% 2%;
+    }  
+    .bg-ht{
+        height:70vh
+    }
+}

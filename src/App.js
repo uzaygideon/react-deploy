@@ -15,7 +15,7 @@ function App() {
     <>
 
    
-   <BrowserRouter>
+   <BrowserRouter basename={window.location.pathname || ''}>
       <Routes>
         <Route path="/" element={<Navigat/>}>
         <Route index element={<Home />} />

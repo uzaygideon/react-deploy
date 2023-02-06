@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.18843773.css",
+    "main.js": "/react-deploy/static/js/main.fb475747.js",
+    "static/js/787.1840bb11.chunk.js": "/react-deploy/static/js/787.1840bb11.chunk.js",
+    "static/media/audOne.mp3": "/react-deploy/static/media/audOne.37740e7a7b3c7a19e1bf.mp3",
+    "static/media/mp4": "/react-deploy/static/media/2524f8f9546346f987eb70ba68d4fe72.f14e40e25f9352b0f007.mp4",
+    "static/media/ab.jpg": "/react-deploy/static/media/ab.490ff099488d5a8406e8.jpg",
+    "static/media/fifteen.jpg": "/react-deploy/static/media/fifteen.9e130659f51147a9a552.jpg",
+    "static/media/youtubve.jpg": "/react-deploy/static/media/youtubve.d9a653b5805ae06d704d.jpg",
+    "static/media/pmiw630ydpe.jpg": "/react-deploy/static/media/pmiw630ydpe.8d444804d2ed166bfa29.jpg",
+    "static/media/churchveiw.jpg": "/react-deploy/static/media/churchveiw.b93aba47237cdb339211.jpg",
+    "static/media/IMG-20220911-WA0011.jpg": "/react-deploy/static/media/IMG-20220911-WA0011.efa86c8070adf9720fbf.jpg",
+    "static/media/video-pix.jpg": "/react-deploy/static/media/video-pix.734ad40167c540e786e9.jpg",
+    "static/media/IMG-20220807-WA0001.jpg": "/react-deploy/static/media/IMG-20220807-WA0001.9b0312566dee68ad3f59.jpg",
+    "static/media/p-mike.jpg": "/react-deploy/static/media/p-mike.b86f6faf870905ed78da.jpg",
+    "static/media/PCRMI Black (1).png": "/react-deploy/static/media/PCRMI Black (1).f8d256cd1dd69680be25.png",
+    "index.html": "/react-deploy/index.html",
+    "main.18843773.css.map": "/react-deploy/static/css/main.18843773.css.map",
+    "main.fb475747.js.map": "/react-deploy/static/js/main.fb475747.js.map",
+    "787.1840bb11.chunk.js.map": "/react-deploy/static/js/787.1840bb11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18843773.css",
+    "static/js/main.fb475747.js"
+  ]
+}
